@@ -1,0 +1,3 @@
+﻿  test.c
+D:\c语言练习\shuixianhua\shuixianhua\test.c(28,27): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  shuixianhua.vcxproj -> D:\c语言练习\shuixianhua\Debug\shuixianhua.exe
